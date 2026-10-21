@@ -1,7 +1,26 @@
 # Collisions TDD Worksheet
 
-** IMPORTANT ** Before you touch the code files, build and run the tests using TestExplorer (CTRL-E, T) to confirm that the code & test setup works. You should see three passing tests.
+# Before you write any code
+
+**IMPORTANT** Before you touch the code files, build and run the tests using TestExplorer (CTRL-E, T) to confirm that the code & test setup works. You should see three passing tests.
 Do not modify anything until you have confirmed that the tests run successfully.
+
+## Set up the RedGreenGo-Coach
+
+RedGreenGo-Coach is an app that powers a simple “Red/Green/Go” workflow for tracking TDD status and progress in real timea nd give advise as to what to do next
+
+
+To run it in this  project:
+
+Open a terminal in Visual Studio `CTRL+\')`
+
+in the terminal, run this command ``python rgg_server.py --class-code AGILE_2026` 
+
+This should open a web browser with the RedGreenGo-Coach - enter your pair names and "press start". (If no start button or diabled, let Ken know)
+
+Read the rest of this README.md, then follow the instructions from RedGreenGo-Coach (note you must run the test  via test explorer for RedGreenGo-Coach to update for next step)
+
+# Introduction
 
 A C++ worksheet for practising Test-Driven Development (TDD) with Google Test. You will build a function that detects whether two rectangles overlap.
 
