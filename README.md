@@ -14,9 +14,15 @@ To run it in this  project:
 
 Open a terminal in Visual Studio `CTRL+\'`
 
-in the terminal, run this command ``python rgg_server.py --class-code AGILE_2026` 
+in the terminal, run this command `python rgg_server.py --class-code AGILE_2026` 
 
-This should open a web browser with the RedGreenGo-Coach - enter your pair names and "press start". (If no start button or diabled, let Ken know)
+<img width="1460" height="475" alt="image" src="https://github.com/user-attachments/assets/b63a8c7a-586e-4908-98c0-748ab1a04d6a" />
+
+
+This should open a web browser with the RedGreenGo-Coach[^1] - enter your pair names and "press start". (If no start button or diabled, let Ken know)
+
+[^1]: if the browser window does not open automatically, try this link: [http://127.0.0.1:8000/?helper=1&class=AGILE_2026](http://127.0.0.1:8000/?helper=1&class=AGILE_2026)
+
 
 Read the rest of this README.md, then follow the instructions from RedGreenGo-Coach (note you must run the test  via test explorer for RedGreenGo-Coach to update for next step)
 
