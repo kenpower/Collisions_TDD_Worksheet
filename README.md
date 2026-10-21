@@ -12,7 +12,7 @@ RedGreenGo-Coach is an app that powers a simple “Red/Green/Go” workflow for 
 
 To run it in this  project:
 
-Open a terminal in Visual Studio `CTRL+\'`
+Open a terminal in Visual Studio `CTRL+'`
 
 in the terminal, run this command `python rgg_server.py --class-code AGILE_2026` 
 
