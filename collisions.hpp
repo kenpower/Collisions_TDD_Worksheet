@@ -15,7 +15,7 @@ bool isPointInsideRectangle(const Point& point, const Rectangle& rect) {
 	bool isInsideOnYaxis = (point.y >= rect.topLeft.y && point.y <= rect.bottomRight.y);
 
 	return isInsideOnXaxis && isInsideOnYaxis;
-}	
+}
 
 
 

@@ -106,3 +106,6 @@ TEST(Rectangles, OverlapWhenEnclosed)
 - Every scenario above has a test.
 - All tests pass.
 - The code is clean and you can explain why each test exists.
+
+## Stretch Goals
+Finished early? See [stretch_goals.md](stretch_goals.md) for more complex tests and extensions.
